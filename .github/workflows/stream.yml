@@ -1,4 +1,5 @@
 name: Discord Streamer
+
 on:
   schedule:
     - cron: '0 */6 * * *'
